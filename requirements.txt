@@ -1,0 +1,11 @@
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.5.1
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.1
+pillow==12.3.0
+kagglehub==1.0.3
+grad-cam==1.5.7
+jupyterlab==4.6.4
+ipykernel==7.4.0
